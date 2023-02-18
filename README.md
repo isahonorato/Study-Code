@@ -20,6 +20,6 @@
 
 | Nome | Descrição | Colaborador | Link |
 | ------ | ------ | ------ | ------ |
-| C# | Aprenda do zero uma das linguagens mais utilizadas no mercado | [Isabella Honorato](https://github.com/isahonorato) - [Pedro Candiani](https://github.com/PedroRC547) | [Clique aqui](https://github.com/) |
-| Python | Aprenda do zero a linguagem mais famosa para os iniciantes! | [Isabella Honorato](https://github.com/isahonorato) - [Pedro Candiani](https://github.com/PedroRC547) | [Clique aqui](https://github.com/) |
-| PHP | Entendendo o básico para começar a programar na linguagem PHP. | [Pedro Candiani](https://github.com/PedroRC547) | [Clique aqui](https://github.com/) |
+| C# | Aprenda do zero uma das linguagens mais utilizadas no mercado | [Isabella Honorato](https://github.com/isahonorato) - [Pedro R Candiani](https://github.com/PedroRC547) | [Clique aqui](https://github.com/) |
+| Python | Aprenda do zero a linguagem mais famosa para os iniciantes! | [Isabella Honorato](https://github.com/isahonorato) - [Pedro R Candiani](https://github.com/PedroRC547) | [Clique aqui](https://github.com/) |
+| PHP | Entendendo o básico para começar a programar na linguagem PHP. | [Pedro R Candiani](https://github.com/PedroRC547) | [Clique aqui](https://github.com/) |
