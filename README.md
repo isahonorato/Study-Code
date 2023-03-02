@@ -23,4 +23,4 @@
 | C# | Aprenda do zero uma das linguagens mais utilizadas no mercado | [Isabella Honorato](https://github.com/isahonorato) - [Pedro Candiani](https://github.com/PedroRC547) | [Clique aqui](https://github.com/) |
 | Python | Aprenda do zero a linguagem mais famosa para os iniciantes! | [Isabella Honorato](https://github.com/isahonorato) - [Pedro Candiani](https://github.com/PedroRC547) | [Clique aqui](https://github.com/) |
 | PHP | Entendendo o básico para começar a programar na linguagem PHP. | [Pedro Candiani](https://github.com/PedroRC547) | [Clique aqui](https://github.com/) |
-| SQL Server | Entendendo o básico para começar a utilizar um Banco de Dados. | [Isabella Honorato](https://github.com/isahonorato) | [Clique aqui](https://github.com/) |
+| SQL Server | Entendendo o básico para começar a utilizar o SQL Server. | [Isabella Honorato](https://github.com/isahonorato) | [Clique aqui](https://github.com/) |
